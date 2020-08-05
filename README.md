@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning React.js
 - 💬 Contact me on: fwalovnik@gmail.com
 
-</br>
 
 <h4>Languages and Tools</h4>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="34px" alt="HTML" align="left"></img>
