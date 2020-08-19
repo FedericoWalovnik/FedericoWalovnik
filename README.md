@@ -15,7 +15,7 @@
 <img src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width="34px" alt="Node.js" align="left"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="50px" alt="Java" align="left" ></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50px" alt="MySql" align="left" ></img>
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50px" alt="MySql" align="left" ></img>
 <!--
 **FedericoWalovnik/FedericoWalovnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
