@@ -1,10 +1,11 @@
 ### Hi there, I'm Federico! 👋
 
-<h4>I'm a full-stack developer, and a Design Student.</h4>
+<h4>I'm a FrontEnd developer, and a Design Student.</h4>
 <h6>Graduated from Ort Argentina, specializing in web and mobile application development. I am passionate about technology and how it has the ability to change realities by providing solutions to users. I like to be constantly learning new technologies and tools.
 Currently studying Multimedia Design at UADE University, where I am developing multidisciplinary skills like software development, graphic design, and UX design.</h6>
 </br>
 
+- 🔭 I’m currently working at Globant as a Web UI developer
 - 🌱 I’m currently learning React.js
 - 💬 Contact me on: fwalovnik@gmail.com
 
