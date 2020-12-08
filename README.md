@@ -6,7 +6,7 @@ Currently studying Multimedia Design at UADE University, where I am developing m
 </br>
 
 - 🔭 I’m currently working at Globant as a Web UI developer
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Vue.js
 - 💬 Contact me on: fwalovnik@gmail.com
 
 
