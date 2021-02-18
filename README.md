@@ -6,7 +6,7 @@ Currently studying Multimedia Design at UADE University, where I am developing m
 </br>
 
 - 🔭 I’m currently working at Globant as a Web UI developer
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning VueX
 - 💬 Contact me on: fwalovnik@gmail.com
 
 
@@ -15,6 +15,7 @@ Currently studying Multimedia Design at UADE University, where I am developing m
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="34px" alt="CSS" align="left"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34px" alt="Sass" align="left"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="34" align="left" alt="Javascript">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="34" align="left" alt="Vue.js">
 <img src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width="34px" alt="Node.js" align="left"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="50px" alt="Java" align="left" ></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50px" alt="MySql" align="left" ></img>
