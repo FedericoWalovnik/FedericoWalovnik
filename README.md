@@ -5,8 +5,8 @@
 Currently studying Multimedia Design at UADE University, where I am developing multidisciplinary skills like software development, graphic design, and UX design.</h6>
 </br>
 
-- 🔭 I’m currently working at Globant as a Web UI developer
-- 🌱 I’m currently learning VueX
+- 🔭 I’m currently working at Agile Engine as a Frontend developer
+- 🌱 I’m currently learning React
 - 💬 Contact me on: fwalovnik@gmail.com
 
 
